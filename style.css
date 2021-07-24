@@ -1,0 +1,42 @@
+#myNavbar{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.link:hover{
+    font-size:40px;
+}
+body{
+    text-align: center;
+}
+.movie_head { font-size: 35px;
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%; 
+    display: inline-block; 
+} 
+.movie_head i { float: right;
+} 
+.movie_text span { color: #ff7700;
+}
+.travel_mainDiv{
+border: 1px solid #c7c7c7;
+padding-left: 0px;
+padding-right: Opx;
+    float: none}
+
+.travel_mainDiv img{
+    width: 35%;
+left: 500;
+}
+
+.travel_mainDiv hr
+{
+    width: 230px;}
+kbd{
+    font-size: 35px;
+}
+#alumni img{
+    width: 40%;
+}
